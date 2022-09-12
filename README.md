@@ -58,7 +58,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paryssatis&label=Profile%20views&color=0e75b6&style=flat" alt="paryssatis" />
-</p>
