@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Paryssa K.</h1>
+<h1>Hi 👋, I'm Paryssa</h1>
 <h3>A passionate frontend developer from Chicago</h3>
 
 🔭 I’m currently working on [a web game called Wagon Quest](http://www.wagon-quest.xyz/)
