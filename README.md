@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paryssatis&label=Profile%20views&color=0e75b6&style=flat" alt="paryssatis" /> </p>
 
-- 🔭 I’m currently working on [a web game called Wagon Quest](http://www.wagon-quest.xyz/)
+🔭 I’m currently working on [a web game called Wagon Quest](http://www.wagon-quest.xyz/)
 
-- 🌱 I’m currently learning **React, Redux, and Typescript**
+🌱 I’m currently learning **React, Redux, and Typescript**
 
-- 💬 Ask me about **my next project!**
+💬 Ask me about **my next project!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/paryssatis-k-7b022b199/**
+📫 How to reach me **https://www.linkedin.com/in/paryssatis-k-7b022b199/**
 
-- 📄 Know about my experiences [[resume link]]([resume link])
+📄 Know about my experiences [[resume link]]([resume link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
