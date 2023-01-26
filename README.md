@@ -7,7 +7,7 @@
 
 💬 Ask me about **my next project!**
 
-📫 How to reach me **https://www.linkedin.com/in/paryssatis-k-7b022b199/**
+📫 How to reach me **https://www.linkedin.com/in/paryssatis/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
