@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Paryssa</h1>
 <h3>A passionate full-stack developer from Chicago</h3>
 
-🔭 At the moment, I'm working on a web game called [Wagon Quest](http://www.wagon-quest.xyz/)
+🔭 At the moment, I'm working on a building a React app from scratch.
 
 🌱 I’m currently learning **React, Redux, and Typescript**
 
