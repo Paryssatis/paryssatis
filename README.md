@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Paryssa</h1>
-<h3>A passionate full-stack developer from Chicago</h3>
+<h3>A passionate full-stack developer based in Los Angeles</h3>
 
 🔭 At the moment, I'm working on a Health Tracker Application with [@RainbowDevs](https://github.com/Rainbow-Devs).
 
