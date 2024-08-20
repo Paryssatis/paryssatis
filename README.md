@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Parys</h1>
-<h3>A passionate full-stack developer based in Los Angeles</h3>
+<h3>A passionate Product Designer based in Los Angeles</h3>
 
-🔭 At the moment, I'm working on a Health Tracker Application with [@RainbowDevs](https://github.com/Rainbow-Devs).
+🔭 At the moment, I'm working on my Portolio Website!.
 
 🌱 I’m currently learning **React, Redux, and Typescript**
 
