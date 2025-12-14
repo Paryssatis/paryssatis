@@ -3,8 +3,6 @@
 
 🔭 At the moment, I'm working on my Portolio Website!
 
-🌱 I’m currently learning **React, Redux, and Typescript**
-
 💬 Ask me about **my next project!**
 
 📫 How to reach me **https://www.linkedin.com/in/paryssatis/**
